@@ -1,0 +1,3 @@
+AA -> 000101 100000 000101 100000 : Problème (devrait donner 000101 100000 000000 100000)
+
+StrToBraille.cpp l.62 : gérer la taille hauteur ET largeur (avec les retour à la ligne) -> voir avec Arduino aussi

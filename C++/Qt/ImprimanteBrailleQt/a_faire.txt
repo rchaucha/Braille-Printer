@@ -1,0 +1,9 @@
+﻿StrToBraille : gérér les accents
+
+Vérifier majuscules fonctionnent
+
+
+Sécuriser la communication (mdp par ex) pour éviter de recevoir des données non voulues
+
+
+enlever le trick port 99
