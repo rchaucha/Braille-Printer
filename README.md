@@ -9,3 +9,9 @@ This project is composed of two parts:
   
 ## Screenshot
   ![Screenshot](https://user-images.githubusercontent.com/18093026/105174007-cb6a8d80-5b19-11eb-81ef-e4851cf69862.PNG)
+  
+## Demo
+Here you can see a demo of the porduct using a pen to symbolize the substance left by the printer for the sake of the test.
+At the end you can see the word that we instructed the program to print, witch matches the word actually printed.
+
+![braille_demo](https://user-images.githubusercontent.com/18093026/105183632-53ef2b00-5b26-11eb-8c68-c28b116bdab7.gif)
