@@ -10,6 +10,11 @@ This project is composed of two parts:
 ## Screenshot
   ![Screenshot](https://user-images.githubusercontent.com/18093026/105174007-cb6a8d80-5b19-11eb-81ef-e4851cf69862.PNG)
   
+## Physical product
+The next picture shows what the printer looks like. The Arduino is in the red box, there are 3 motors (for 3 axis) and we used a syringe to leave the substance. 
+
+![braille](https://user-images.githubusercontent.com/18093026/105184796-aa109e00-5b27-11eb-8e9d-e2e330db9cb0.jpg)
+  
 ## Demo
 Here you can see a demo of the porduct using a pen to symbolize the substance left by the printer for the sake of the test.
 At the end you can see the word that we instructed the program to print, witch matches the word actually printed.
