@@ -16,7 +16,7 @@ The next picture shows what the printer looks like. The Arduino is in the red bo
 ![braille](https://user-images.githubusercontent.com/18093026/105184796-aa109e00-5b27-11eb-8e9d-e2e330db9cb0.jpg)
   
 ## Demo
-Here you can see a demo of the porduct using a pen to symbolize the substance left by the printer for the sake of the test.
+Here you can see a demo of the product using a pen to symbolize the substance left by the printer for the sake of the test.
 At the end you can see the word that we instructed the program to print, witch matches the word actually printed.
 
 ![braille_demo](https://user-images.githubusercontent.com/18093026/105183632-53ef2b00-5b26-11eb-8c68-c28b116bdab7.gif)
